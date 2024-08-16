@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+.navbar{
+	background-color:#6e072d;
+	padding:40px;
+}
+.nav-list1{
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+	text-align:left;
+	display:flex;
+	flex-direction:row;
+}
+.nav-list2{
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+	text-align:right;
+	display:flex;
+	flex-direction:row;
+}
+.list-item{
+	background-color:#b90e4d;
+	cursor:pointer;
+	font-size:18px;
+	border:2px solid white;
+}
